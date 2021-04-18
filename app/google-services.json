@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "660780036406",
+    "firebase_url": "https://vugstech-c5cc8-default-rtdb.firebaseio.com",
+    "project_id": "vugstech-c5cc8",
+    "storage_bucket": "vugstech-c5cc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660780036406:android:305aae5e642e68fcbfc397",
+        "android_client_info": {
+          "package_name": "com.example.vugs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660780036406-3vohrmrk3b1ft2sao329f8mhokg26b2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vugs",
+            "certificate_hash": "1558f65934398de6d0c07b75e933014c6cf3f956"
+          }
+        },
+        {
+          "client_id": "660780036406-v60qcvhsp16t90s2ed9mk9ndmehhe6ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnZvHnuTqSLl10cvUVJ1nEjTu7BM4liAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660780036406-v60qcvhsp16t90s2ed9mk9ndmehhe6ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

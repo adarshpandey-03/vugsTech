@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">vugs</string>
+    <string-array name="garbageType">
+        <item>Oscilloscope</item>
+        <item>Signal Generator</item>
+        <item>Multimeter</item>
+    </string-array>
+</resources>
